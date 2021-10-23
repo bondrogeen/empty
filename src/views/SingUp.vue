@@ -69,11 +69,7 @@ export default {
   },
   methods: {
     validate(reg, text) {
-      return text
-        ? reg.test(text)
-          ? ""
-          : "Введено не корректное значение"
-        : "";
+      return text ? reg.test(text) ? "" : "Введено не корректное значение" : "";
     },
   },
 };
