@@ -99,8 +99,8 @@ export default {
     right: 15px;
     cursor: pointer;
     display: block;
-    height: 10 px;
-    width: 20 px;
+    height: 10px;
+    width: 20px;
     background-repeat: no-repeat;
     background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBjZKxDYAwDASdlFRsQMkU1IzBSqzAFlAzCRtQ0YZ8JEuR4yT+xpblu8hS3LyfgWKubaFpHMiS5/1oPe7U+3yAaoV51/PLFkm+Awas56Yn0WDUdEJPUoMRF2Jai0gNLgSahGcarAqkRJ4oowpyCdL6Iz81i4ZsRxcbjgAAAABJRU5ErkJggg==");
   }
